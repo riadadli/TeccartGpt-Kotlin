@@ -40,7 +40,7 @@ This application can be integrated with backend services to offer real-time comm
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Hchakib/ChatBot.git
+   git clone https://github.com/riadadli/TeccartGpt-Kotlin.git
    ```
 
 2. Open the project in **Android Studio**:
